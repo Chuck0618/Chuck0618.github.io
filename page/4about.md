@@ -13,33 +13,17 @@ type: page
 
 <iframe src="https://githubbadge.appspot.com/gaohaoyang?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
-就职于阿里巴巴集团天猫事业部，前端开发工程师，花名川轼。
+Chuangqiang Hu, received his bachelor degree in 2012 and got his Ph.D. degree in 2017 at Sun Yat-sen University of China. His research interests encompass algebraic function field, coding theory and singularity theory. His Ph.D. thesis, entitled Construction of Multi-point Algebraic Geometric Codes, was under the supervision of Prof. Bing-Long Chen. He has been a post-doc at YMSC since September 2017. In 2010, he acquired the first prize of Contemporary Undergraduate Mathematical Contest in Modeling.
 
-主要兴趣集中在前端开发，大前端的概念深入我心。将更多的业务逻辑放在前端中，这很有趣。同时，将自己构想的内容实现出来，这种感觉很愉快。
 
-热爱美好的事物，热爱摇滚乐，组过乐队，卖过唱。
-
-很喜欢崔健的歌词：现实像块石头，精神像个蛋，石头虽然坚硬，可蛋里才是生命。
-
-还有，学习是一个非常愉快的过程。共同加油！
-
-* 2016.6.30 入职阿里巴巴天猫事业部
-* 2016.6 毕业于西安交通大学 软件工程硕士
-* 2015.12 获得2014-2015学年二等奖学金
-* 2015.7-2015.8 联想服务，前端开发工程师（实习生）
-* 2013.6 毕业于西安交通大学 理学院
-* 2001 获得西航四校总成绩年级排名第八名
+* 2012-2017 Sun Yat-sen University
+* 2017-2018 Yau Mathematical Sciences Center
 
 ## 联系我
 
-* GitHub：[Gaohaoyang](https://github.com/Gaohaoyang)
-* email：gaohaoyang126@126.com
-* [Weibo](http://weibo.com/3115521wh)
-* [知乎](https://www.zhihu.com/people/gaohaoyang)
-* [Facebook](https://www.facebook.com/gaohaoyang.water)
-* [Twitter](https://twitter.com/gaohaoyang126)
-* [豆瓣](https://www.douban.com/people/42525035/)
-* [豆瓣音乐人-浩阳的小站](https://site.douban.com/haoyangaiyinyue/)
+* GitHub：[Chuck0618](https://github.com/Chuck0618)
+* email：huchq@mail2.sysu.edu.cn \| huchq@tsinghua.edu.cn
+         
 
 ## 关于本站
 
@@ -94,7 +78,7 @@ type: page
 
 ## 友情链接
 
-[羡辙杂俎](http://zhangwenli.com/blog) \| [Anotherhome](https://www.anotherhome.net) \| [Reverland](http://reverland.org/) \| [ZhiLi](http://lizhipower.github.io/) \| [Simmer](http://simmer-jun.github.io/) \| [awthink](http://awthink.net/) \| [Aralic](http://aralic.github.io/) \| [zchen9](http://www.chen9.info/) \| [wuhuaji](http://wuhuaji.me/) \| [lisheng](http://www.lishengcn.cn/) \| [薛彬XueBin](http://axuebin.com/blog/) \| [TBOOX](http://www.tboox.org/cn/) \|  [Ling](http://linglinyp.com/)
+[中山大学数学学院](http://math.sysu.edu.cn) \| [清华大学数学科学院](http://www.tsinghua.edu.cn/publish/math) \| [丘成桐数学科学中心](http://msc.tsinghua.edu.cn) \| [ZhiLi](http://lizhipower.github.io/) \| [Simmer](http://simmer-jun.github.io/) \| [awthink](http://awthink.net/) \| [Aralic](http://aralic.github.io/) \| [zchen9](http://www.chen9.info/) \| [wuhuaji](http://wuhuaji.me/) \| [lisheng](http://www.lishengcn.cn/) \| [薛彬XueBin](http://axuebin.com/blog/) \| [TBOOX](http://www.tboox.org/cn/) \|  [Ling](http://linglinyp.com/)
 
 ## Comments
 
