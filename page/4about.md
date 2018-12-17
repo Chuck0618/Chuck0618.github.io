@@ -22,9 +22,7 @@ Chuangqiang Hu, received his bachelor degree in 2012 and got his Ph.D. degree in
 ## 联系我
 
 * GitHub：[Chuck0618](https://github.com/Chuck0618)
-* email：huchq@mail2.sysu.edu.cn
-
-         huchq@tsinghua.edu.cn 
+* email：huchq@mail2.sysu.edu.cn \| huchq@tsinghua.edu.cn
          
 
 ## 关于本站
@@ -80,7 +78,7 @@ Chuangqiang Hu, received his bachelor degree in 2012 and got his Ph.D. degree in
 
 ## 友情链接
 
-[羡辙杂俎](http://zhangwenli.com/blog) \| [Anotherhome](https://www.anotherhome.net) \| [Reverland](http://reverland.org/) \| [ZhiLi](http://lizhipower.github.io/) \| [Simmer](http://simmer-jun.github.io/) \| [awthink](http://awthink.net/) \| [Aralic](http://aralic.github.io/) \| [zchen9](http://www.chen9.info/) \| [wuhuaji](http://wuhuaji.me/) \| [lisheng](http://www.lishengcn.cn/) \| [薛彬XueBin](http://axuebin.com/blog/) \| [TBOOX](http://www.tboox.org/cn/) \|  [Ling](http://linglinyp.com/)
+[中山大学数学学院](http://math.sysu.edu.cn) \| [清华大学数学科学院](http://www.tsinghua.edu.cn/publish/math) \| [丘成桐数学科学中心](http://msc.tsinghua.edu.cn) \| [ZhiLi](http://lizhipower.github.io/) \| [Simmer](http://simmer-jun.github.io/) \| [awthink](http://awthink.net/) \| [Aralic](http://aralic.github.io/) \| [zchen9](http://www.chen9.info/) \| [wuhuaji](http://wuhuaji.me/) \| [lisheng](http://www.lishengcn.cn/) \| [薛彬XueBin](http://axuebin.com/blog/) \| [TBOOX](http://www.tboox.org/cn/) \|  [Ling](http://linglinyp.com/)
 
 ## Comments
 
