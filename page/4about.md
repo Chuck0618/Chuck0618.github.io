@@ -11,7 +11,7 @@ type: page
 
 ## 关于我
 
-<iframe src="https://raw.githubusercontent.com/Chuck0618/Chuck0618.github.io/master/photos/myself.png" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+![myself](https://raw.githubusercontent.com/Chuck0618/Chuck0618.github.io/master/photos/myself.png)
 
 Chuangqiang Hu, received his bachelor degree in 2012 and got his Ph.D. degree in 2017 at Sun Yat-sen University of China. His research interests encompass algebraic function field, coding theory and singularity theory. His Ph.D. thesis, entitled Construction of Multi-point Algebraic Geometric Codes, was under the supervision of Prof. Bing-Long Chen. He has been a post-doc at YMSC since September 2017. In 2010, he acquired the first prize of Contemporary Undergraduate Mathematical Contest in Modeling.
 
