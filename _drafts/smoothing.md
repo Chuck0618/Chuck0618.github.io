@@ -64,7 +64,7 @@
 ![myself](https://raw.githubusercontent.com/Chuck0618/Chuck0618.github.io/master/photos/Screenshots/Screenshot%20(24).png)
 
 10. 
-![myself](https://raw.githubusercontent.com/Chuck0618/Chuck0618.github.io/master/photos/Screenshots/Screenshot%20(25).png)
+![myself](https://raw.githubusercontent.com/Chuck0618/Chuck0618.github.io/661f398d69f97ad2fabcff24a4109508af4f32e2/photos/Screenshots/Screenshot%20(25).jpg)
 
 
 ### `详细过程 2`
