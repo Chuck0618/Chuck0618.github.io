@@ -1,7 +1,7 @@
 ## 人像高低频磨皮
 
 高低频磨皮号称人像三大磨皮技巧之一。在大部分网络教程，我们可以看到 `PS` 的实现步骤。
-其实自由图像处理软件 `GIMP` 完成可以实现同样的功能。在网上找来了一张照片，原图是如下。
+其实自由图像处理软件 `GIMP` 完全可以实现同样的功能。在网上找来了一张照片，原图是如下。
 ![ordinary](https://raw.githubusercontent.com/Chuck0618/Chuck0618.github.io/master/photos/Screenshots/原始.png)
 
 照片中模特的脸颊，鼻子有大量的雀斑。
@@ -64,7 +64,7 @@
 ![myself](https://raw.githubusercontent.com/Chuck0618/Chuck0618.github.io/master/photos/Screenshots/Screenshot%20(24).png)
 
 10. 
-![myself](https://raw.githubusercontent.com/Chuck0618/Chuck0618.github.io/master/photos/Screenshots/Screenshot%20(26).png)
+![myself](https://raw.githubusercontent.com/Chuck0618/Chuck0618.github.io/master/photos/Screenshots/Screenshot%20(25).png)
 
 
 ### `详细过程 2`
