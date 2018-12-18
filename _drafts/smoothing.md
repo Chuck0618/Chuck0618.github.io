@@ -34,11 +34,39 @@
 
 ![myself](https://raw.githubusercontent.com/Chuck0618/Chuck0618.github.io/master/photos/Screenshots/Screenshot%20(16).png)
 ![myself](https://raw.githubusercontent.com/Chuck0618/Chuck0618.github.io/master/photos/Screenshots/Screenshot%20(17).png)
+
+4. 在右下面的图层栏的下方选择复制图层，改名字为**低频**。
 ![myself](https://raw.githubusercontent.com/Chuck0618/Chuck0618.github.io/master/photos/Screenshots/Screenshot%20(18).png)
+
+
+5. 确保你的鼠标选中**低频**，选择菜单栏的滤镜-模糊-高斯模糊。
+
 ![myself](https://raw.githubusercontent.com/Chuck0618/Chuck0618.github.io/master/photos/Screenshots/Screenshot%20(19).png)
+
+6. 在弹出来的小窗口调好合参数，即**X大小**和**Y大小**。
+可以这样尝试选择，从较小的数值开始，慢慢增大，直到看不到太多明显的斑点为止。
+
 ![myself](https://raw.githubusercontent.com/Chuck0618/Chuck0618.github.io/master/photos/Screenshots/Screenshot%20(20).png)
+
+7. 可以勾选**分割视图**选项，帮助你看到参数调整前后区别。这里我设置的是`4.5`。
+
+
+
 ![myself](https://raw.githubusercontent.com/Chuck0618/Chuck0618.github.io/master/photos/Screenshots/Screenshot%20(21).png)
+
+8. 回到图层栏，将**原始**图层拖到上方。更改图层栏上方的`模式`。
+在下菜单中选择增益提取。
 ![myself](https://raw.githubusercontent.com/Chuck0618/Chuck0618.github.io/master/photos/Screenshots/Screenshot%20(22).png)
+
 ![myself](https://raw.githubusercontent.com/Chuck0618/Chuck0618.github.io/master/photos/Screenshots/Screenshot%20(23).png)
+
+9. 右键点击图层栏空白处，选择**从可见项创建**。
 ![myself](https://raw.githubusercontent.com/Chuck0618/Chuck0618.github.io/master/photos/Screenshots/Screenshot%20(24).png)
-![myself](https://raw.githubusercontent.com/Chuck0618/Chuck0618.github.io/master/photos/Screenshots/Screenshot%20(25).png)
+
+10. 
+![myself](https://raw.githubusercontent.com/Chuck0618/Chuck0618.github.io/master/photos/Screenshots/Screenshot%20(26).png)
+
+
+### `详细过程 2`
+
+10. 
