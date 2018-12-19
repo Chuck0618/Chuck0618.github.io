@@ -72,3 +72,32 @@
 ### `详细过程 2`
 
 10. 
+
+
+
+
+![myself](https://imgchr.com/i/FB7bkt)
+https://imgchr.com/i/FB7omd
+https://imgchr.com/i/FB7T0A
+https://imgchr.com/i/FB7Xp8
+https://imgchr.com/i/FB77TI
+https://imgchr.com/i/FBHSmj
+https://imgchr.com/i/FB7qtP
+https://imgchr.com/i/FB7Lff
+https://imgchr.com/i/FB7j1S
+https://imgchr.com/i/FB7xXQ
+https://imgchr.com/i/FB7v6g
+https://imgchr.com/i/FBHit0
+https://imgchr.com/i/FBHp0s
+https://imgchr.com/i/FBH97n
+https://imgchr.com/i/FBHFhV
+https://imgchr.com/i/FBHPkq
+https://imgchr.com/i/FBHApT
+https://imgchr.com/i/FBHE1U
+https://imgchr.com/i/FBHZX4
+https://imgchr.com/i/FBHMA1
+https://imgchr.com/i/FBHVcF
+https://imgchr.com/i/FBHnB9
+https://imgchr.com/i/FBHQtx
+https://imgchr.com/i/FBHmnJ
+https://imgchr.com/i/FBHu7R
