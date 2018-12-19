@@ -60,12 +60,14 @@
 
 ![myself](https://raw.githubusercontent.com/Chuck0618/Chuck0618.github.io/master/photos/Screenshots/Screenshot%20(23).png)
 
-9. 右键点击图层栏空白处，选择**从可见项创建**。
+9. 右键点击图层栏空白处，选择**从可见项创建**，这样你就可以得到一张全是皮肤纹理的图片。
 ![myself](https://raw.githubusercontent.com/Chuck0618/Chuck0618.github.io/master/photos/Screenshots/Screenshot%20(24).png)
 
 10. 
 ![myself](https://raw.githubusercontent.com/Chuck0618/Chuck0618.github.io/661f398d69f97ad2fabcff24a4109508af4f32e2/photos/Screenshots/Screenshot%20(25).jpg)
 
+![myself](https://raw.githubusercontent.com/Chuck0618/Chuck0618.github.io/master/photos/Screenshots/Screenshot%20(27).jpg)
+![myself](https://raw.githubusercontent.com/Chuck0618/Chuck0618.github.io/master/photos/Screenshots/Screenshot%20(28).jpg)
 
 ### `详细过程 2`
 
