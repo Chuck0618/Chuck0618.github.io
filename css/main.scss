@@ -52,13 +52,13 @@ div.scene {
   width:100%;
   display: flex;
   justify-content: space-between;
-  -webkit-perspective: 800px;
-          perspective: 800px;
+  -webkit-perspective: 1800px;
+          perspective: 1800px;
 }
 
 div.scene .card {
   position: relative;
-  width: 240px;
+  width: 640px;
   height: 300px;
   color: white;
   cursor: pointer;
@@ -82,7 +82,7 @@ div.scene .card .card__face {
   -webkit-box-reflect: below 0 linear-gradient(transparent, transparent, rgba(0, 0, 0, 0.4));
 }
 div.scene .card .card__face img {
-  width: 240px;
+  width: 640px;
   height: 300px;
   -o-object-fit: cover;
      object-fit: cover;
