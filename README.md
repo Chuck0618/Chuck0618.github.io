@@ -1,4 +1,4 @@
-# About this Cool Concise Jekyll Blog Theme 🤘🤘🤘
+# About this Cool Concise Jekyll Blog Theme |关于 Jekyll 博客主题
 
 [![GitHub stars](https://img.shields.io/github/stars/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/Gaohaoyang/gaohaoyang.github.io/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/Gaohaoyang/gaohaoyang.github.io/network)
@@ -10,7 +10,9 @@
 
 With the escalation of jekyll version, but I also want to reconstruct my older blog theme, so I did reconstruction and added some features recently. My new blog theme will still be stored in this repository. I will also use this theme in the future. Now I have done basically, then I will focus on issues that users opend to make theme better.
 
-**My Blog Url: [http://chuck0618.github.io/](http://chuck0618.github.io/)**. If you like this theme, you can give me a star to encourage me. Welcome everyone to use it.
+**My Blog Url: [http://chuck0618.github.io/](http://chuck0618.github.io/)**. 
+**我的博客网址是: [http://chuck0618.github.io/](http://chuck0618.github.io/)**. 
+如果你喜欢的主题，请给我一颗小星星☆☆☆☆☆, 欢迎小伙伴们快来使用它。
 
 ## Content
 
@@ -45,7 +47,7 @@ With the escalation of jekyll version, but I also want to reconstruct my older b
 * [Update Log](#update-log)
 * [License](#license)
 
-## Preview
+## Preview|预览一下吧
 
 First of all, let's see previews.
 
@@ -55,7 +57,7 @@ Index Page
 Post Page
 ![post](http://ww4.sinaimg.cn/large/7011d6cfjw1f3bdmzb9v6j210p0j7gwn.jpg)
 
-## Page Details
+## Page Details|页面细节
 
 ### Home
 
