@@ -50,9 +50,10 @@
 
 
 .page clearfix.left.scene {
-  width: 1000px;
+  //width: 1000px;
+  width: 400 px;
   display: flex;
-  justify-content: space-between;
+  //justify-content: space-between;
   -webkit-perspective: 800px;
           perspective: 800px;
 }
