@@ -46,12 +46,48 @@
  */
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "reset", "header", "post", "page", "syntax-highlighting", "index", "demo", "footer", "scrollbar", "backToTop";
-// 两个人在列车上相遇
-// 一段旅程充满了诗意
-// 你突然说你要下车
-// 去寻找属于你的灵魂和身体
-//
-// 当你穷的只剩下理想时
-// 就再次回到这列车上
-// 我们谈天说地
-// 把酒言欢，赠予你新路途纹银
+
+
+
+.scene {
+  width: 1000px;
+  display: flex;
+  justify-content: space-between;
+  -webkit-perspective: 800px;
+          perspective: 800px;
+}
+.scene .card {
+  position: relative;
+  width: 240px;
+  height: 300px;
+  color: white;
+  cursor: pointer;
+  transition: 1s ease-in-out;
+  -webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d;
+}
+.scene .card:hover {
+  -webkit-transform: rotateY(0.5turn);
+          transform: rotateY(0.5turn);
+}
+.scene .card .card__face {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+  transition: 1s ease-in-out;
+  -webkit-box-reflect: below 0 linear-gradient(transparent, transparent, rgba(0, 0, 0, 0.4));
+}
+.scene .card .card__face img {
+  width: 240px;
+  height: 300px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.scene .card .card__face--back {
+  -webkit-transform: rotateY(0.5turn);
+          transform: rotateY(0.5turn);
+}
