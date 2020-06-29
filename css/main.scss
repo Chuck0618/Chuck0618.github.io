@@ -48,7 +48,6 @@
 @import "reset", "header", "post", "page", "syntax-highlighting", "index", "demo", "footer", "scrollbar", "backToTop";
 
 
-
 .page clearfix.left.scene {
   width: 1000px;
   display: flex;
@@ -56,6 +55,7 @@
   -webkit-perspective: 800px;
           perspective: 800px;
 }
+
 .page clearfix.left.scene .card {
   position: relative;
   width: 240px;
