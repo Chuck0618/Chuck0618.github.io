@@ -50,12 +50,12 @@
 
 
 .page clearfix.left.scene {
-  //width: 1000px;
-  width: 400px;
+  width: 1000px;
+  //width: 400px;
   display: flex;
-  justify-content: space-between;
-  -webkit-perspective: 300px;
-          perspective: 300px;
+  //justify-content: space-between;
+  -webkit-perspective: 800px;
+          perspective: 800px;
 }
 .page clearfix.left.scene .card {
   position: relative;
