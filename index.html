@@ -9,7 +9,6 @@ layout: default
         <small>这里是Chuck的个人博客</small>
         <hr>
         <ul>
-            {% for post in paginator.posts %}
               <li>
                 <h2>
                   <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -42,7 +41,6 @@ layout: default
                 </div>
                 <hr>
               </li>
-            {% endfor %}
         </ul>
 
 
@@ -105,7 +103,7 @@ layout: default
             <div class="side">
                 <div>
                     <i class="fa fa-tags"></i>
-                    Tags
+                    没想好要放什么
                 </div>
                  
             </div>
