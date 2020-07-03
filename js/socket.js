@@ -1,8 +1,8 @@
 window.Genie = {};
-Genie.Settings = {"webchannels_autosubscribe":true,"server_host":window.document.domain,"webchannels_subscribe_channel":"subscribe","server_port":8000,"webchannels_default_route":"__","webchannels_unsubscribe_channel":"unsubscribe","websockets_port":8001}
+Genie.Settings = {"webchannels_autosubscribe":true,"server_host":"http://c347613aed19.ngrok.io","webchannels_subscribe_channel":"subscribe","server_port":8000,"webchannels_default_route":"__","webchannels_unsubscribe_channel":"unsubscribe","websockets_port":8001}
 Genie.WebChannels = {};
 Genie.WebChannels.load_channels = function() {
-  var socket = new WebSocket('ws://' + window.Genie.Settings.server_host + ':8001');
+  var socket = new WebSocket('ws://' + window.Genie.Settings.server_host);
   var channels = Genie.WebChannels;
 
   channels.channel = socket;
