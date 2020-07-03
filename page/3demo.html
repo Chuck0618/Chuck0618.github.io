@@ -29,3 +29,58 @@ type: page
 
 <!-- <h2 id="comments">Comments</h2> -->
 {% include comments.html %}
+
+
+ 
+
+	<br><label>
+		姓名：
+	</label>
+	<input type="text" id = "name"   width="128"   value="输入名字，进入聊天室"><br>
+	<br>
+	<button id = "enter">
+		进入
+	</button>
+	<label>
+		欢迎 XXXX 进入聊天室！
+	</label><br>
+	<textarea id ="TA" rows="10" cols="30" readonly = "true">
+	</textarea><br>
+	<button id = "talk">
+		输入
+	</button><input type="text" id = "message"  width="128" value=""><br>
+</body>
+<script src="../js/genie/jquery-1.11.3.js"></script>
+<script src="../js/genie/socket.js"></script> 
+<script type = "text/javascript">
+	function parse_payload(data) {
+		console.log(data);
+	if (data != ""){ 
+		$("#TA")[0].value += data; 
+		}
+	};
+
+	$(document).ready(function(){
+		var tt = document.getElementById("name");
+		
+		$("input").click(function(){
+			if (tt.readOnly == false)
+			{
+				$("input")[0].value = '';
+			}
+		});
+
+	 $("#enter").click(function(){
+		var name = tt.value;
+		 tt.readOnly=true;
+		Genie.WebChannels.sendMessageTo('__', 'enter', name);
+	  });
+	  $("#talk").click(function(){
+		var name = tt.value;
+		 var message = $("#message")[0].value;
+		Genie.WebChannels.sendMessageTo('__', 'chat', name+":"+message);
+	  });
+
+	});
+	</script>
+</html>
